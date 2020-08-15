@@ -1,5 +1,5 @@
 id,name,start_date,end_date,replaces,replaced_by,cabinet,cabinetLabel
-Q335791,Herbert Morrison,1951,1955-c.,,Q333080,,
+Q335791,Herbert Morrison,1951,1955,,Q333080,,
 Q333080,Selwyn Lloyd,1964-10-16,1965-08-04,Q335791,Q333371,,
 Q333371,Fred Peart,1970-06-19,1971-12-16,Q333080,Q332419,,
 Q332419,Michael Foot,1971-12-16,1972-12-06,Q333371,Q333944,,
