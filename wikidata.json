@@ -1,0 +1,538 @@
+[
+  {
+    "item": {
+      "value": "Q1701413",
+      "label": "John Peyton, Baron Peyton of Yeovil"
+    },
+    "statement": "Q1701413$29AFD5BC-EE35-41DB-B7E7-B26BD163583F"
+  },
+  {
+    "item": {
+      "value": "Q333080",
+      "label": "Selwyn Lloyd"
+    },
+    "replaces": {
+      "value": "Q268875",
+      "label": "Herbert Bowden, Baron Aylestone"
+    },
+    "replacedBy": {
+      "value": "Q333371",
+      "label": "Fred Peart, Baron Peart"
+    },
+    "start": {
+      "value": "1964-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1965-08-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333080$C69416E6-8078-4E5E-A049-0A471D1DE387"
+  },
+  {
+    "item": {
+      "value": "Q333944",
+      "label": "Edward Short, Baron Glenamara"
+    },
+    "replaces": {
+      "value": "Q332419",
+      "label": "Michael Foot"
+    },
+    "replacedBy": {
+      "value": "Q333412",
+      "label": "James Prior, Baron Prior"
+    },
+    "start": {
+      "value": "1972-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333944$32DEE363-90C8-4939-B8DB-DEC818A3CEA9"
+  },
+  {
+    "item": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replaces": {
+      "value": "Q1701413",
+      "label": "John Peyton, Baron Peyton of Yeovil"
+    },
+    "replacedBy": {
+      "value": "Q333578",
+      "label": "Norman St John-Stevas, Baron St John of Fawsley"
+    },
+    "start": {
+      "value": "1976-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1978-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332759$09EA5EA9-315A-4A77-A374-7C4940F21F81"
+  },
+  {
+    "item": {
+      "value": "Q333578",
+      "label": "Norman St John-Stevas, Baron St John of Fawsley"
+    },
+    "replaces": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replacedBy": {
+      "value": "Q332419",
+      "label": "Michael Foot"
+    },
+    "start": {
+      "value": "1978-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333578$1AB0798C-F031-4A3B-BDCA-442CF446747B"
+  },
+  {
+    "item": {
+      "value": "Q332419",
+      "label": "Michael Foot"
+    },
+    "replaces": {
+      "value": "Q333578",
+      "label": "Norman St John-Stevas, Baron St John of Fawsley"
+    },
+    "replacedBy": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332419$4671539E-459C-4FC9-8629-CEC6DDF8885B"
+  },
+  {
+    "item": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replaces": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "replacedBy": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300182$C794157F-AC24-45EF-9F7C-1871F47E52BC"
+  },
+  {
+    "item": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replaces": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replacedBy": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336214$EC2B185B-6A8B-4121-B20A-2BD6516E50F5"
+  },
+  {
+    "item": {
+      "value": "Q265935",
+      "label": "Nick Brown"
+    },
+    "replaces": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "replacedBy": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1994-05-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q265935$1C4CF618-9D04-4D0E-A9BB-F4ED96244547"
+  },
+  {
+    "item": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "replaces": {
+      "value": "Q265935",
+      "label": "Nick Brown"
+    },
+    "replacedBy": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "start": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q232639$8BDABB84-6B3C-4299-9234-CDDC7A2EB85F"
+  },
+  {
+    "item": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "replaces": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "replacedBy": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332843$3058E89A-15C1-49C6-AC80-0D32234D650A"
+  },
+  {
+    "item": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "replaces": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "replacedBy": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334258$71A5696F-541E-4BB0-AC10-65FD098735DB"
+  },
+  {
+    "item": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replaces": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333058$01FB0A83-6014-4B14-ACE3-C35E15D4523B"
+  },
+  {
+    "item": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replaces": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replacedBy": {
+      "value": "Q5386503",
+      "label": "Eric Forth"
+    },
+    "start": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q532347$1DF27078-03A9-4F70-94F0-9A3CBA56E37A"
+  },
+  {
+    "item": {
+      "value": "Q5386503",
+      "label": "Eric Forth"
+    },
+    "replaces": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replacedBy": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5386503$7E2AF74F-911C-4C4A-86D3-4BE8B41DB21B"
+  },
+  {
+    "item": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "replaces": {
+      "value": "Q5386503",
+      "label": "Eric Forth"
+    },
+    "replacedBy": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q478711$EE2F0FF5-A89F-4369-B4E2-A9750EE51A6F"
+  },
+  {
+    "item": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "replaces": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "replacedBy": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337453$78F9FF80-BF80-4493-A21A-FA190E463B0D"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replaces": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "replacedBy": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "q264766$04ed95f6-4345-72d6-e767-dac07f972a8b"
+  },
+  {
+    "item": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replaces": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "start": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-09-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302417$8C2ED7D2-C6FB-4283-886C-4E40E44C0786"
+  },
+  {
+    "item": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replaces": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replacedBy": {
+      "value": "Q261773",
+      "label": "Rosie Winterton"
+    },
+    "start": {
+      "value": "2009-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259836$CA52DB4C-0140-483A-B8C9-99F0528C5054"
+  },
+  {
+    "item": {
+      "value": "Q261773",
+      "label": "Rosie Winterton"
+    },
+    "replaces": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replacedBy": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "start": {
+      "value": "2010-05-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q261773$44039D20-CEB8-4864-B563-DADC8536AE24"
+  },
+  {
+    "item": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replaces": {
+      "value": "Q261773",
+      "label": "Rosie Winterton"
+    },
+    "replacedBy": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262742$05DE89F4-2C30-446B-BDC7-BC08A2DEC9DF"
+  },
+  {
+    "item": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replaces": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replacedBy": {
+      "value": "Q266146",
+      "label": "Chris Bryant"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302763$5BCBBF34-2C63-46A4-9BD0-681521C117F7"
+  },
+  {
+    "item": {
+      "value": "Q266146",
+      "label": "Chris Bryant"
+    },
+    "replaces": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replacedBy": {
+      "value": "Q390611",
+      "label": "Paul Flynn"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266146$144991ED-EEA4-475E-8AEC-24CB44ED575F"
+  }
+]
